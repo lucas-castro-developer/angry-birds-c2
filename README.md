@@ -51,15 +51,15 @@ O jogo é constituído de três fases:
 
 **Fase 1**
 
-<img src="images/#">
+<img src="images/phase-1.png">
 
 **Fase 2**
 
-<img src="images/#">
+<img src="images/phase-2.png">
 
 **Fase 3**
 
-<img src="images/#">
+<img src="images/phase-3.png">
 
 ### Construído com
 
