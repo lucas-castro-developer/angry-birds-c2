@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="assets/tutorial.png">
+    <img src="/assets/Aliens/alienGreen_round.png">
   </a>
 
   <h3 align="center">Angry Birds</h3>
